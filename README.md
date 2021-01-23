@@ -1,2 +1,2 @@
 # hadoop-notes
-Notes on Hadoop.
+Study notes on Hadoop.
